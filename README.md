@@ -1,3 +1,3 @@
-# Pierwsze-Repo
+# Kółko i Krzyżyk
 
-link do strony: https://domkik.github.io/Pierwsze-Repo/
+Implementacja w C kultowej gry Kółko i krzyżyk z komputerem.
