@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define W_PLANSZY 3
-#define WYGRANA 1
-#define PRZEGRANA -1
-#define NIKT_NIE_WYGRAL 0
+
+const int W_PLANSZY = 3, WYGRANA = 1, PRZEGRANA = -1, NIKT_NIE_WYGRAL = 0;
 
 void wypisz(char plansza[W_PLANSZY][W_PLANSZY])
 {
